@@ -1,0 +1,76 @@
+{
+  "musicians": [
+    {
+      "id": 0,
+      "name": "Balázs",
+      "image": "img/Balko.png",
+      "description": "Our guitar artist hero."
+    },
+    {
+      "id": 1,
+      "name": "Ádám",
+      "image": "img/Adam.png",
+      "description": "Our drum artist hero."
+    },
+    {
+      "id": 2,
+      "name": "Peti",
+      "image": "img/Apeti.png",
+      "description": "Our trumpet artist hero."
+    },
+    {
+      "id": 3,
+      "name": "Peti",
+      "image": "img/Bpeti.png",
+      "description": "Our horn artist hero."
+    },
+    {
+      "id": 4,
+      "name": "Milán",
+      "image": "img/Milan.png",
+      "description": "Our singer and bass guitar artist hero."
+    },
+    {
+      "id": 5,
+      "name": "Barnabás",
+      "image": "images/Barnabas.png",
+      "description": "Our sax artist hero."
+    }
+  ],
+  "events": [
+    {
+      "id": 0,
+      "name": "Concert at Muzikum, 20. March 2016.",
+      "image": "img/muzikum.jpg",
+      "description": "Our first concert at Muzikum with lovely fans."
+    },
+    {
+      "id": 1,
+      "name": "Concert at Bori vár, 11. July 2016.",
+      "image": "img/Borivar.jpg",
+      "description": "At Bori vár in the rain. We had fantastic time!"
+    },
+    {
+      "id": 2,
+      "name": "Concert at Kis Á, 4. November 2016.",
+      "image": "img/kisA.jpg",
+      "description": "Our next party will be at Kis Á. We are preparing with a surprise!"
+    }
+  ],
+  "ourmusic": [
+    {
+      "id": 0,
+      "name": "Szófiai utcakő",
+      "image": "img/Sofia.jpg",
+      "link": "https://geomusichungary.bandcamp.com/releases",
+      "description": "Our first album. Published on Jan 28, 2016."
+    },
+    {
+      "id": 1,
+      "name": "Szabó Lőrinc Release",
+      "image": "img/SzaboLorinc.jpg",
+      "link": "https://www.facebook.com/geo.band.official/videos/659907214176123/",
+      "description": "Surprise release on AvarFest. Published on 24 September, 2016."
+    }
+  ]
+}
