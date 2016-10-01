@@ -11,17 +11,18 @@ Used technologies:
 [Ionic Framework](http://ionicframework.com/)
 )
 
-This application uses the 
-[JSON Server](https://github.com/typicode/json-server) at the moment
-and is capable to connect later to (planned features): 
-- [MongoDB experimental service](https://www.ng.bluemix.net/docs/#services/MongoDB/index.html#MongoDB) 
--[Cloudant NoSQL database-as-a-service (DBaaS)](https://cloudant.com/)
 
 #### Features
 - visualisation possibility of the latest GEO events
 - impressive and condensed page about GEO displayed on a well visible place of the web-app
 - visualisation possibility of the latest GEO music collections on the web site
 - impressive and condensed page about GEO displayed on a well visible place of the web-app
+
+#### Planned Capabilites
+- This application uses the 
+[JSON Server](https://github.com/typicode/json-server) at the moment.
+-will be capable to connect later to (planned features): [MongoDB experimental service](https://www.ng.bluemix.net/docs/#services/MongoDB/index.html#MongoDB)  and 
+[Cloudant NoSQL database-as-a-service (DBaaS)](https://cloudant.com/)
 
 ## Application Requirements
 - [Node.js & NPM](https://nodejs.org/en/download/)
