@@ -21,7 +21,7 @@ Used technologies:
 #### Planned Capabilites
 - This application uses the 
 [JSON Server](https://github.com/typicode/json-server) at the moment.
--will be capable to connect later to (planned features): [MongoDB experimental service](https://www.ng.bluemix.net/docs/#services/MongoDB/index.html#MongoDB)  and 
+- will be capable to connect later to (planned features): [MongoDB experimental service](https://www.ng.bluemix.net/docs/#services/MongoDB/index.html#MongoDB)  and 
 [Cloudant NoSQL database-as-a-service (DBaaS)](https://cloudant.com/)
 
 ## Application Requirements
